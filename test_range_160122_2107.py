@@ -6,6 +6,6 @@ elif x.isalpha():
 else:
     print('You enter something!')
 print(x, type(x))
-print(x[0:3])
+print(x[0:4])
 print(x[::-1])
 print(x[::])
